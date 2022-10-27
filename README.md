@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sainathaluri
-- 👀 I’m interested in Software development and Blockchain development
-- 🌱 I’m currently learning DSA JAVA
+- 👋 Hi, I’m @Sainath
+- 👀 I’m interested in Software development and Blockchain.
+- 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to collaborate on Development things
 - 📫 How to reach me twitter @Sainath53647013
 
